@@ -1,0 +1,19 @@
+.header {
+    background: dodgerblue;
+    color: white;
+    position: absolute;
+    top:0px;
+    left:auto;
+    width: 600px;
+}
+
+.header h1 {
+    padding: 15px;
+}
+
+.cartNumber {
+    font-size:20px;
+    position:absolute;
+    top: 25px;
+    right:30px;
+}

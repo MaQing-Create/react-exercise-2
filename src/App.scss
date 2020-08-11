@@ -1,6 +1,10 @@
 @import 'styles/variables.scss';
 
 .app {
+  position: absolute;
+  left:50%;
+  top:0%;
+  transform:translate(-50%,-50%);
   width: 600px;
   margin: 80px auto $base-margin auto;
   background-color: $white;

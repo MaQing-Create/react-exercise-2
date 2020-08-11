@@ -1,0 +1,21 @@
+img {
+    width:180px;
+    height: 180px;
+}
+
+.product {
+    position: absolute;
+}
+
+#index1 {
+    left:195px;
+}
+
+#index2 {
+    left:390px;
+}
+
+.product .add-to-cart{
+    margin-left: 40px;
+    background:cornflowerblue;
+}
